@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule favicon.ico giulia.dev/favicon.ico [L]
+RewriteRule index.html giulia.dev/index.html [L]
+ErrorDocument 404 /giulia.dev/404.html
